@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "MindFlight",
+    "slug": "mindflight",
+    "scheme": "mindflight",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "baseUrl": "/FlightTrack",
+      "typedRoutes": true
+    },
+    "web": {}
+  }
+}
