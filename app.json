@@ -17,7 +17,7 @@
       "expo-router"
     ],
     "experiments": {
-      "baseUrl": "/FlightTrack",
+      "baseUrl": "/MindFlight",
       "typedRoutes": true
     },
     "web": {}
